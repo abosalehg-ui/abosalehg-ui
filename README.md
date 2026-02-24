@@ -2,7 +2,7 @@
 
 # مرحباً 👋 أنا عبدالكريم العبود
 
-**مطوّر تطبيقات | صانع محتوى | أمين سر دائرة قضائية**
+**مطوّر تطبيقات | صانع محتوى**
 
 [![YouTube](https://img.shields.io/badge/YouTube-منوعات-red?style=for-the-badge&logo=youtube)](https://youtube.com/@variety_videos)
 [![YouTube](https://img.shields.io/badge/YouTube-تاريخ-darkred?style=for-the-badge&logo=youtube)](https://youtube.com/@historyar0)

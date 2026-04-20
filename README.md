@@ -10,10 +10,8 @@
 
 ## 🧑‍💻 عنّي
 
-- 🏛️ أعمل في القطاع القضائي — أبني أدوات تقنية تحل مشاكل حقيقية
-- 🎮 أطوّر ألعاب 3D تفاعلية بـ Three.js
+- 🏛️ أبني أدوات تقنية تحل مشاكل حقيقية
 - 📱 أبني تطبيقات Android وأدوات مساعدة بـ Python
-- 🎬 أصنع محتوى يوتيوب (منوعات + تاريخ)
 - 🌐 كل مشاريعي تدعم العربية و RTL بشكل كامل
 
 ---
@@ -26,15 +24,6 @@
 | [نماذج ضبط القضايا](https://github.com/abosalehg-ui/court-templates-sa) | قوالب جاهزة للضبط القضائي |
 | [دليل رفع الدعاوى](https://github.com/abosalehg-ui/Guide-to-Filing-Lawsuits) | دليل شامل لرفع الدعاوى القضائية |
 
-## 🎮 ألعاب ومحاكيات
-
-| المشروع | الوصف |
-|---------|-------|
-| [من الغرفة للقمة](https://github.com/abosalehg-ui/Game-dev) | 🏆 محاكي تطوير ألعاب — 6 مراحل، مشاهد 3D، أحداث عشوائية |
-| [تداول](https://github.com/abosalehg-ui/Saudi-Stock-Trading-Simulator) | محاكاة سوق الأسهم السعودي — 100+ سهم حقيقي |
-| [النجاة في الصحراء](https://github.com/abosalehg-ui/survival-skills3D) | لعبة بقاء 3D في بيئة صحراوية |
-| [مصنع المشابك](https://github.com/abosalehg-ui/Paper-clip-factory) | لعبة إدارة مصنع تفاعلية |
-| [Lemonade Tycoon](https://github.com/abosalehg-ui/LEMONADE) | محاكاة إدارة مشروع عصير ليمون |
 
 ## 🛠️ أدوات مساعدة
 
